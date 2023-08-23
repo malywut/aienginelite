@@ -1,0 +1,4 @@
+pika
+pydantic
+uvicorn
+fastapi
